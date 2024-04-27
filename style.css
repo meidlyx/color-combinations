@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Comfortaa:wght@300..700&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Russo+One&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    background-color: #dcc9dd;
+    color: #413053;
+    width: 100%;
+    height: 45px;
+    font-family: Russo One;
+    font-size: 35px;
+    text-align: center;
+}
+
+.yellow {
+    background-color: #fffa6a;
+    color: #262161;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.yellow p {
+    border: 5px solid #262161;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.purple {
+    background-color: #c598fe;
+    color: #030d02;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.purple p {
+    border: 5px solid #030d02;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.white-orange {
+    background-color: #f1e8d9;
+    color: #ee4615;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.white-orange p {
+    border: 5px solid #ee4615;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.red-yellow {
+    background-color: #680031;
+    color: #e3da58;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.red-yellow p {
+    border: 5px solid #e3da58;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.green {
+    background-color: #32fc6a;
+    color: #014051;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.green p {
+    border: 5px solid #014051;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.gray-blue {
+    background-color: #A2BAD4 ;
+    color: #373F55;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.gray-blue p {
+    border: 5px solid #373F55;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.green-black {
+    background-color: #C3DEB1;
+    color: #121D30;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.green-black p {
+    border: 5px solid #121D30;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.beige-black {
+    background-color: #FDEED8;
+    color: #1B1A1A;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.beige-black p {
+    border: 5px solid #1B1A1A;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.purple-black {
+    background-color: #DCC9DD;
+    color: #413053;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.purple-black p {
+    border: 5px solid #413053;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.orange-green {
+    background-color: #E2FEAA;
+    color: #F9501A;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.orange-green p {
+    border: 5px solid #F9501A;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.pink-blue {
+    background-color: #FFE3E8;
+    color: #0B0448;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+} 
+.pink-blue p {
+    border: 5px solid #0B0448;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.black-green {
+    background-color: #191919;
+    color: #C2F54F;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.black-green p {
+    border: 5px solid #C2F54F;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.green-blue {
+    background-color: #85D08B;
+    color: #181349;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.green-blue p {
+    border: 5px solid #181349;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.green-purple {
+    background-color: #D5F9D5;
+    color: #8745FF;
+    width: 100%;
+    height: 1000px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat Alternates;
+}
+.green-purple p {
+    border: 5px solid #8745FF;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+
+
+
+.yellow, .green, .purple, .red-yellow, .white-orange, .gray-blue, .green-black, .beige-black, .purple-black, .orange-green, .pink-blue, .black-green, .green-blue, .green-purple {
+    position: relative;
+}
+
+.yellow h3, .green h3, .purple h3, .red-yellow h3, .white-orange h3, .gray-blue h3, .green-black h3, .beige-black h3, .purple-black h3, .orange-green h3, .pink-blue h3, .black-green h3, .green-blue h3, .green-purple h3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.yellow p, .green p, .purple p, .red-yellow p, .white-orange p, .gray-blue p, .green-black p, .beige-black p, .purple-black p, .orange-green p, .pink-blue p, .black-green p, .green-blue p, .green-purple p {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 600;
+}
+
+
+
+
+
+aside {
+    width: 50%;
+    padding-left: 0.5rem;
+    float: right;
+    font-family: Comfortaa;
+    color: #ffffff;
+}
+
+#myAside {
+    width: 230px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    transition: left 1s ease;
+    z-index: 10000;
+    backdrop-filter: blur(100px);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.content {
+    padding: 20px;
+}
+
+.button-container {
+    position: fixed;
+    top: 1px;
+    right: 20px;
+    z-index: 1001;
+}
+
+.nana {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.button-p {
+    font-size: 40px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+
+
+a {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    transition: 1s;
+}
+a:hover {
+    font-size: 17px;
+    transition: 1s;
+
+}
+
+
+@media screen and (max-width: 768px) {
+    aside {
+        width: 100%;
+        z-index: 1000;
+    }
+    .button-container {
+        top: 0px;
+        color: red;
+    }
+    .yellow p, .green p, .purple p, .red-yellow p, .white-orange p, .gray-blue p, .green-black p, .beige-black p, .purple-black p, .orange-green p, .pink-blue p, .black-green p, .green-blue p, .green-purple p {
+        top: 70%;
+    }
+}
