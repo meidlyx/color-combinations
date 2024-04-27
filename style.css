@@ -317,6 +317,9 @@ a:hover {
         top: 0px;
         color: red;
     }
+    #myAside {
+        backdrop-filter: blur(10px);
+    }
     .yellow p, .green p, .purple p, .red-yellow p, .white-orange p, .gray-blue p, .green-black p, .beige-black p, .purple-black p, .orange-green p, .pink-blue p, .black-green p, .green-blue p, .green-purple p {
         top: 70%;
     }
