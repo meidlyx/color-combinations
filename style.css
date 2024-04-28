@@ -268,7 +268,8 @@ aside {
     left: -250px;
     transition: left 1s ease;
     z-index: 10000;
-    backdrop-filter: blur(100px);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
     background-color: rgba(0, 0, 0, 0.4);
 }
 
@@ -318,7 +319,8 @@ a:hover {
         color: red;
     }
     #myAside {
-        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(5px);
+        backdrop-filter: blur(5px);
     }
     .yellow p, .green p, .purple p, .red-yellow p, .white-orange p, .gray-blue p, .green-black p, .beige-black p, .purple-black p, .orange-green p, .pink-blue p, .black-green p, .green-blue p, .green-purple p {
         top: 70%;
